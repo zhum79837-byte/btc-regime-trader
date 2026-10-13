@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/
+data/*.csv
+data/*.parquet
+data/snapshots/
+*.py[cod]
+.env
+
